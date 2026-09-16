@@ -1,2 +1,2 @@
 # HostsEdit
-edit the hosts of windows platform
+edit the ".>windows\system32\drivers\etc\hosts" file of windows platform
